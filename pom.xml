@@ -6,7 +6,7 @@
 	<groupId>com.exp</groupId>
 	<artifactId>mapi</artifactId>
 	<packaging>jar</packaging>
-	<name>mapi</name>
+	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -51,7 +51,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>${artifactId}</finalName>
+		<finalName>demo</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
