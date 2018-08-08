@@ -15,6 +15,6 @@ public class UserController {
 
     @RequestMapping("id")
     public int getId(){
-        return 1;
+        return 2;
     }
 }
